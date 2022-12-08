@@ -1,1 +1,0 @@
-var adi = a;
